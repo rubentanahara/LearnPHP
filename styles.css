@@ -1,0 +1,17 @@
+body {
+  background-color:#BEBEBE;   
+  font-family: Monaco;
+}
+.phpcode  {
+  background-color:#FFF;                                 
+  text-align: left;
+  width: 30%;
+  height:20%;
+  padding: 10px;
+  border: 2px solid grey;
+  font-size : 14px;
+
+}
+.phpcode code {
+    display: block;
+}
